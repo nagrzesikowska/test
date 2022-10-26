@@ -77,7 +77,7 @@ export default class WeatherApp extends React.Component {
               {" "}
               Open-source code
             </a>
-            <a> by Natalia Grzesikowska</a>
+            <a> by Natalia Grzesikowska from She Codes</a>
           </div>
         </div>
       </div>
