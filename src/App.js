@@ -24,7 +24,7 @@ export default class WeatherApp extends React.Component {
               <div className="city">KRAKÓW</div>
               <div className="date">sunday 10/10/22</div>
               <div className="time">18:45</div>
-              <div className="temperature">15°C</div>
+              <div className="temperature">15</div>
             </div>
             <div className="col-4 today-parameters">
               <div class="humidity">
@@ -77,7 +77,7 @@ export default class WeatherApp extends React.Component {
               {" "}
               Open-source code
             </a>
-            <a> by Natalia Grzesikowska from She Codes</a>
+            <a>by Natalia Grzesikowska</a>
           </div>
         </div>
       </div>
